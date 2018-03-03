@@ -1,0 +1,25 @@
+#MATLAB Preferences
+#Sat Mar 03 20:05:35 IRST 2018
+DelimiterOptionsTypingMisMatchType=I5
+MatlabExitConfirm=Bfalse
+DelimiterOptionsMoving=Btrue
+DelimiterOptionsMovingMisMatchType=I5
+DelimiterOptionsTypingMatchType=I3
+RLOrderB2_WB_2014b_1=S0:1:
+RLHiddenB2_WB_2014b_1=I16376
+DelimiterOptionsMovingMatchType=I1
+EditorOtherEditor=S
+CommandWindowClearConfirmation=Btrue
+CurrentKeyBindingSet=SWindows
+RLWidthB2_WB_2014b_1_1=I130
+RLWidthB2_WB_2014b_1_0=I130
+EditorMRU8=S/home/mehran/ESCG/escg/escg.m
+EditorMRU7=S/home/mehran/ESCG/escg/litekmeans.m
+EditorMRU6=S/home/mehran/ESCG/escg/predict.m
+EditorMRU5=S/home/mehran/ESCG/escg/predict.asv
+EditorMRU4=S/home/mehran/ESCG/escg/preprocess.m
+EditorMRU3=S/home/mehran/ESCG/escg/pred_r.m
+EditorMRU2=S/home/mehran/ESCG/escg/run_escg.m
+EditorMRU1=S/home/mehran/ESCG/Code_ESCG/escg.m
+RLPrevInitB2_WB_2014b_1=Btrue
+DelimiterOptionsTyping=Btrue
