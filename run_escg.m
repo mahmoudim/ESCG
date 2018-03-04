@@ -43,7 +43,7 @@ for i = 1:options.k
     cluster=find(pred==i);
     SubG=W(cluster,cluster);
     [S,C]=graphconncomp(SubG);
-    for j = 1:C
+    for j = 1:S
         com=cluster(find(C==1));
         if(size(com,1)>1)
             Communities(com)=CommunitiesC;
